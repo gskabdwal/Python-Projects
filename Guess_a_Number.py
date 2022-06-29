@@ -10,7 +10,7 @@ print("Welcome to the number guessing game!")
 print("I am thinking of a number between 1 and 100.")
 
 answer = random.randint(1, 100)
-print(answer)
+
 level = input("Choose a difficulty level: 'easy' or 'hard': ")
 
 
